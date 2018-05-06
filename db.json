@@ -1,0 +1,144 @@
+{
+  "kategoriler": [
+    
+      {
+        "Id": 1,
+        "Adi": "Koltuk Takımları",
+        "Resim": "kategori_resim_1.jpg",
+        "CesitSayisi": 12
+      },
+      {
+        "Id": 2,
+        "Adi": "Kanepe Takımları",
+        "Resim": "kategori_resim_2.jpg",
+        "CesitSayisi": 17
+      }
+    ,
+    
+    {
+      "Id": 3,
+      "Adi": "Köşe Takımları",
+      "Resim": "kategori_resim_3.jpg",
+      "CesitSayisi": 13
+    },
+    {
+      "Id": 4,
+      "Adi": "Kanepeler",
+      "Resim": "kategori_resim_4.jpg",
+      "CesitSayisi": 25
+    }
+  ,
+    
+    {
+      "Id": 5,
+      "Adi": "Berjerler",
+      "Resim": "kategori_resim_5.jpg",
+      "CesitSayisi": 20
+    },
+    {
+      "Id": 6,
+      "Adi": "Yatak Odaları",
+      "Resim": "kategori_resim_6.jpg",
+      "CesitSayisi": 13
+    }
+    ,
+    
+    {
+      "Id": 7,
+      "Adi": "Yemek Odaları",
+      "Resim": "kategori_resim_7.jpg",
+      "CesitSayisi": 14
+    },
+    {
+      "Id": 8,
+      "Adi": "Sandalyeler",
+      "Resim": "kategori_resim_8.jpg",
+      "CesitSayisi": 19
+    }
+    ,
+    
+    {
+      "Id": 9,
+      "Adi": "Duvar ve TV Üniteleri",
+      "Resim": "kategori_resim_9.jpg",
+      "CesitSayisi": 21
+    },
+    {
+      "Id": 10,
+      "Adi": "Genç ve Çocuk Odaları",
+      "Resim": "kategori_resim_10.jpg",
+      "CesitSayisi": 11
+    }
+    ,
+    
+    {
+      "Id": 11,
+      "Adi": "Portmantolar",
+      "Resim": "kategori_resim_11.jpg",
+      "CesitSayisi": 13
+    },
+    {
+      "Id": 12,
+      "Adi": "Dolaplar",
+      "Resim": "kategori_resim_12.jpg",
+      "CesitSayisi": 18
+    }
+    ,
+    
+    {
+      "Id": 13,
+      "Adi": "Tamamlayıcı Ürünler",
+      "Resim": "kategori_resim_13.jpg",
+      "CesitSayisi": 7
+    },
+    {
+      "Id": 14,
+      "Adi": "Bazalar",
+      "Resim": "kategori_resim_14.jpg",
+      "CesitSayisi": 18
+    }
+    ,
+    
+    {
+      "Id": 15,
+      "Adi": "Başlıklar",
+      "Resim": "kategori_resim_15.jpg",
+      "CesitSayisi": 14
+    },
+    {
+      "Id": 16,
+      "Adi": "Yataklar",
+      "Resim": "kategori_resim_16.jpg",
+      "CesitSayisi": 17
+    }
+    ,
+    
+    {
+      "Id": 17,
+      "Adi": "Mutfak Masa Setleri",
+      "Resim": "kategori_resim_17.jpg",
+      "CesitSayisi": 14
+    },
+    {
+      "Id": 18,
+      "Adi": "Sehpalar",
+      "Resim": "kategori_resim_18.jpg",
+      "CesitSayisi": 17
+    }
+    ,
+    
+    {
+      "Id": 19,
+      "Adi": "Düğün Paketleri",
+      "Resim": "kategori_resim_19.jpg",
+      "CesitSayisi": 5
+    },
+    {
+      "Id": 20,
+      "Adi": "Yeni Ürünler",
+      "Resim": "kategori_resim_20.jpg",
+      "CesitSayisi": 16
+    }
+  
+  ]
+}
